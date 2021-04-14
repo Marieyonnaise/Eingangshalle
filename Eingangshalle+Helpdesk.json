@@ -899,7 +899,7 @@
         {
          "columns":48,
          "firstgid":321,
-         "image":"tilesets\/atlas_32x.png",
+         "image":"atlas_32x.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
@@ -913,7 +913,7 @@
         {
          "columns":8,
          "firstgid":1089,
-         "image":"..\/..\/..\/Pictures\/info.png",
+         "image":"info.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
