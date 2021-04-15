@@ -48,7 +48,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"Relax.json"
+                 "value":"Eingangshalle+Helpdesk2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
